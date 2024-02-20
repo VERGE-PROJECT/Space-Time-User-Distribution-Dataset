@@ -10,4 +10,4 @@ A total of 62 csv files each one containing the time evolution of the number of 
 
 2) Spatial regions files:
 Files named as regions_map_floor_0.csv, regions_map_floor_1.csv and regions_map_floor_2.csv, corresponding, respectively, to the ground floor, the first floor and the second floor. Each file contains a matrix of 335 rows and 125 columns. Each element of the matrix is a pixel of 1m x 1m that corresponds to one position in the campus. The value of the pixel is the identifier of the closest AP to the pixel or 0 if the pixel is not associated to any AP.
-Space/time user distribution dataset
+
