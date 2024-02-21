@@ -1,6 +1,5 @@
 # Space-Time-User-Distribution-Dataset
 Olga Ruiz, Juan Sánchez-González, Jordi Pérez-Romero, Oriol Sallent, Irene Vilà
-
 Universitat Politècnica de Catalunya (UPC), Barcelona, Spain
 February, 2024
 
