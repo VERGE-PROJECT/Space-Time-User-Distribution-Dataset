@@ -1,4 +1,9 @@
 # Space-Time-User-Distribution-Dataset
+Olga Ruiz, Juan Sánchez-González, Jordi Pérez-Romero, Oriol Sallent, Irene Vilà
+Universitat Politècnica de Catalunya (UPC), Barcelona, Spain
+February, 2024
+
+
 The dataset contains the measurements of the number of users connected to each one of the 247 Wifi indoor Access Points (APs) deployed in the Campus Nord of Universitat Politècnica de Catalunya (UPC) in Barcelona. The university campus is a rectangular area of 335 m x 125 m. It comprises 24 buildings that are 3 floors high. The measurements cover a total of 62 days. In addition to the number of users, the dataset also includes the information of the theoretical coverage area of each AP, so that the number of users connected to each AP can be associated to a specific geographical area. 
 The dataset is composed of the following files:
 
